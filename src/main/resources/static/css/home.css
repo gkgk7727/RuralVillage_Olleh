@@ -32,7 +32,7 @@
     animation-direction: alternate;*/ 
 }
 
-/* 헤더 */
+/* 상단메뉴 */
 .upm-menu a:hover{color: #666;}
 .upm-menu .login{text-align: right; margin-right: 13%;}
 .upm-menu .join{text-align: right; margin-right: 2%; margin-top: -2.2%;}
@@ -65,7 +65,7 @@ h1{
     border-radius: 10px;
     margin-left: 4rem;
     margin-bottom: -6rem;
-    margin-top: 0rem;
+    margin-top: 2rem;
     font-family: 'Cafe24Ssurround';
     font-size: 1rem;
     
