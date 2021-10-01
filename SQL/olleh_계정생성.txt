@@ -1,0 +1,7 @@
+create user c##olleh identified by olleh;
+
+grant connect, resource, dba to c##olleh;
+
+
+테이블 생성 순서
+member / village / attraction / category / bookmark / reservation / review / comment / inquiry / inquiryComment / uploadFile
